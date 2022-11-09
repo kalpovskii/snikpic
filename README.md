@@ -1,4 +1,4 @@
-### Адаптивная верстка сайта продукта snikpic 
+### Адаптивная верстка сайта snikpic с анимацией
 https://kalpovskii.github.io/snikpic/ <br>
 
 @1200 <br>
